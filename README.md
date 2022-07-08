@@ -1,14 +1,18 @@
-# vue-json-query-builder
-> vue-json-query-builder is a Vue UI component to assist users in creating complex queries in JSON format.
+# vue3-json-query-builder
+> Fork from [vue-json-query-builder](https://github.com/afineedge/vue-json-query-builder) 
 
+json based query builder for building complex queries. 
+
+(to be updated later)
 ![Demo Screenshot](./public/assets/standard_example.png)
 
-### Documentation
+### Documentation (to be updated later)
 - [How to use vue-json-query-builder](https://afineedge.github.io/vue-json-query-builder/)
 
 ## Dependencies
-- [BootstrapVue](https://bootstrap-vue.org/)
+- [Vuetify v3 beta](https://next.vuetifyjs.com/en/)
 
+(to be updated later)
 ## Project setup
 ```
 npm install vue-json-query-builder
